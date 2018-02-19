@@ -1,0 +1,8 @@
+Django==1.10
+django-filter==1.1.0
+django-pyodbc-azure==2.0.1.0
+djangorestframework==3.7.7
+Markdown==2.6.11
+pyodbc==4.0.22
+pytz==2017.3
+virtualenv==15.1.0
